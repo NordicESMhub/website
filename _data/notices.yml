@@ -116,7 +116,6 @@
 #      - message: |
 #          The Freiburg Galaxy team will be striking on 24.09.2021. No new jobs will be processed on that Friday!
 #          For more information please see our [blog post](https://usegalaxy-eu.github.io/posts/2021/09/17/we-are-striking-really/plain.html).
-=======
 - title: Peace to Ukraine!
   class: danger # one of [success, info, warning, danger]
   site: freiburg # Your site
